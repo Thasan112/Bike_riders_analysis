@@ -59,3 +59,5 @@ Compares bike purchases based on commuting distance:
 * 10+ Miles
 * *Shows how commute length affects likelihood of purchase.*
 
+
+![Bikes Sales Dashboard](Screenshot 2026-06-10 130647.png)
