@@ -58,3 +58,4 @@ Compares bike purchases based on commuting distance:
 * 5–10 Miles
 * 10+ Miles
 * *Shows how commute length affects likelihood of purchase.*
+
